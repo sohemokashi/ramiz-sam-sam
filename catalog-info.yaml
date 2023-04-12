@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ramiz-sam-sam"
+  description: "dd"
+  annotations:
+    github.com/project-slug: sohemokashi/ramiz-sam-sam
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"
